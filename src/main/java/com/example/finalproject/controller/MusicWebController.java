@@ -34,4 +34,5 @@ public class MusicWebController {
         model.addAttribute("Music",new Music());
         return "myoozik.html";
     }
+
 }
